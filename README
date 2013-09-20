@@ -1,0 +1,11 @@
+<h1>PHP/HTML5 Contact Form</h1>
+This is a simple HTML5 contact form that uses PHP to submit/send the form content by email to a selected recipient (or recipients). It also makes use of the Google reCAPTCHA (http://www.google.com/recaptcha) to prevent spam.
+
+<h2>Important source files</h2>
+contact.php - Contains the HTML form
+style.css - basic styling for the form
+bin/contact.php - Contains the PHP that processes the form
+bin/recaptchalib.php - Google reCAPTCHA code
+
+<h2>Team Members</h2>
+Stephanie S. Beighley - web developer

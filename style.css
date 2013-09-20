@@ -1,0 +1,29 @@
+label {
+	float: left;
+	clear: left;
+	margin: 11px 20px 0 0;
+	width: 110px;
+	text-align: right;
+}
+.required { color: #F00; }
+input {
+	border: 1px solid #333;
+	display: block;
+	font-size: 13px;
+	margin: 10px 10px 5px 0;
+	padding: 5px;
+	width: 200px;
+}
+input[type=submit] { 
+	margin-left: 130px;
+	width: auto; 
+}
+textarea {
+	border: 1px solid #333;
+	display: block;
+	font-size: 13px;
+	margin: 10px 10px 5px 0;
+	padding: 5px;
+	width: 200px;
+	height: 80px;
+}
